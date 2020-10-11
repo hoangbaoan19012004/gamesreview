@@ -1,0 +1,9 @@
+.page{
+    width: 1920px;
+    height: 1080px;
+    background-image: linear-gradient(#0f0c29,#302b63,#24243e);
+}
+.firstline{
+    width: 1920px;
+    height : 50px;
+}
