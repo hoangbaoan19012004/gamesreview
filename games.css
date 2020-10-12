@@ -2,7 +2,10 @@
     font-family: MarkPro;
     src: url(FontFont_FF.Mark.Pro.Black.otf);
 }
-
+body{
+    display: flex;
+    justify-content: center;
+}
 .page{
     width: 1910px;
     height: 1080px;
@@ -11,7 +14,7 @@
     z-index: 0;
     display: flex;
     flex-direction: column;
-    flex-wrap:wrap
+    flex-wrap:wrap;
 }
 .firstline{
     margin-top: 10px;
