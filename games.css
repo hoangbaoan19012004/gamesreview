@@ -1,9 +1,13 @@
 .page{
     width: 1920px;
     height: 1080px;
-    background-image: linear-gradient(#0f0c29,#302b63,#24243e);
+    background-color: #f6d327;
+    background-image: linear-gradient(315deg, #f6d327 0%, #de4daa 74%);
 }
 .firstline{
     width: 1920px;
     height : 50px;
+}
+.the_icon{
+    border:15px;
 }
